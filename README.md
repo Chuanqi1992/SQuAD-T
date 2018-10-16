@@ -1,6 +1,6 @@
 # SQuAD-T
 
-This document describes the contents of the split the for SQuAD-T dataset.
+This document describes the contents of the split for SQuAD-T dataset.
 
 Following  https://stanford-qa.com/ , we re-distribute this data split under the CC BY-SA 4.0 license(https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
